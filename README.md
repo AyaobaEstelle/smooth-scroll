@@ -22,4 +22,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 ## Deploy on Vercel
-smooth-scroll-fqbnroryy-ayaobaestelle.vercel.app
+smooth-scroll-murex.vercel.app
