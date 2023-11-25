@@ -36,6 +36,7 @@ export default function Index() {
                     fill={true}
                     alt="background image"
                     priority={true}
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 />
             </div>
             <div className={styles.intro}>
@@ -45,6 +46,7 @@ export default function Index() {
                             alt="intro image"
                             fill={true} 
                             priority={true}
+                            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                         />
                     </div>
                     <h1 data-scroll data-scroll-speed="0.7">AYAOBA SCROLL</h1>
